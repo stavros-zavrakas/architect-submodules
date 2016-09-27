@@ -3,7 +3,7 @@
 let path = require('path');
 
 module.exports = [{
-  packagePath: '../lib/bootstrap',
+  packagePath: '../lib',
 }, {
-  packagePath: '../plugins/grevil.routes',
+  packagePath: '../plugins/grevil.router',
 }];
