@@ -6,4 +6,6 @@ module.exports = [{
   packagePath: '../lib',
 }, {
   packagePath: '../plugins/grevil.router',
+}, {
+  packagePath: '../plugins/grevil.template',
 }];

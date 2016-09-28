@@ -17,6 +17,7 @@
     "throng": "^4.0.0"
   },
   "grevilPlugins": [
-    "grevil.router"
+    "grevil.router",
+    "grevil.template"
   ]
 }
