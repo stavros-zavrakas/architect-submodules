@@ -1,3 +1,6 @@
 [submodule "plugins/grevil.router"]
 	path = plugins/grevil.router
 	url = git@github.com:stavros-zavrakas/grevil.router.git
+[submodule "plugins/grevil.template"]
+	path = plugins/grevil.template
+	url = git@github.com:stavros-zavrakas/grevil.template.git
